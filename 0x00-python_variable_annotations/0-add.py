@@ -4,4 +4,5 @@
 type-annotated function add
 """
 def add(a: float, b: float) -> float:
+    """ float + float"""
     return a + b
